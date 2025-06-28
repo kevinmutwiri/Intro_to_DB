@@ -6,3 +6,4 @@
 - [task_3.sql](./task_3.sql) - List all the tables created
 - [task_4.sql](./task_4.sql) - Print the full description of the table books from the database alx_book_store in your MySQL server.
 - [task_5.sql](./task_5.sql) - Populate database
+- [task_6.sql](./task_6.sql) - Populate database
